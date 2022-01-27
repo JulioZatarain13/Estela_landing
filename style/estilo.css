@@ -1,0 +1,134 @@
+#box{
+    background-image: url(../img/imagen-attraction.png);
+    background-repeat: no-repeat;
+    background-color: #BDCCC7;
+}
+.logo{
+    margin-top: 30%;
+    margin-right: 30%;
+}
+.img-ingles{    
+    /*width: 38.89px;
+    height: 36px;*/
+    margin-top:10px;
+    
+}
+.img-subtitulo{
+    
+    /*width: 126.22px;
+    height: 17.91px;*/
+    margin-top:194px;
+    
+}
+.text{
+    color: white;
+    font-size: 38px;
+    font-family: 'ITC New Baskerville Std';
+}
+#text2{
+    color: white;
+    font-size: 18px;
+    font-family:'Akzidenz-Grotesk BQ';
+}
+.text-form{
+    width: 342px;
+    height: 153px; 
+    margin-top:119.94px;
+    margin-left: 58.5px;
+    color: #0A333D;
+    font-size: 30px;
+    font-family: 'ITC New Baskerville Std';
+}
+
+#text3{   
+    margin-top: 5%;
+    margin-left: 5%;
+    color: #0A333D;
+    font-size: 38px;
+    font-family: 'ITC New Baskerville Std';
+}
+#text4{          
+    margin-top: 3.5%;
+    color: #0A333D;
+    font-size: 18px;
+    font-family:'Akzidenz-Grotesk BQ';
+}
+
+#box-carrusel{
+    margin-top: 5%;
+}
+
+.img-logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 5%;
+}
+
+#cuadros{
+    margin-top: 5%;
+}
+
+#bloque{
+    margin-top: 8%;
+}
+.titulobloque1{
+    margin-left: 10%;
+    color: #0A333D;
+    font-size: 38px;
+    font-family: 'ITC New Baskerville Std';
+}
+.textbloque1{
+    margin-left: 10%;
+    color: #646464;
+    font-size: 18px;
+    font-family: 'Akzidenz-Grotesk BQ';
+}
+
+.hiperbloque1{ 
+    margin-left: 10%;
+    color: #158977;
+    font-size: 18px;
+}
+
+
+.titulobloque2{ 
+    margin-left: 10%;
+    color: #0A333D;
+    font-size: 38px;
+    font-family: 'ITC New Baskerville Std';
+}
+.textbloque2{
+    margin-left: 10%;
+    color: #646464;
+    font-size: 18px;
+    font-family: 'Akzidenz-Grotesk BQ';
+}
+
+.title-bloqueo{
+    margin-top: 10%;
+    color: white;
+    font-size: 38px;
+    font-family: 'ITC New Baskerville Std';
+}
+#text-bloqueo{
+    font-family: 'Akzidenz-Grotesk BQ';
+    color: white;
+    font-size: 18px;
+}
+
+#footer{
+    width:100%;
+    background-color: #0A333D;
+}
+
+.text-footer{
+    font-family: 'Akzidenz-Grotesk BQ';
+    color: white;
+    font-size: 12px;
+    margin-left: 10%;
+}
+.img-footer{
+    width:10%;
+    margin-left: 10%;
+}
